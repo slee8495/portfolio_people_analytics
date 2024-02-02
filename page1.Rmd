@@ -1,0 +1,65 @@
+---
+title: " "
+output:
+  html_document:
+  css: styles.css
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{css, echo=FALSE}
+body {
+  font-family: 'Verdana', sans-serif;
+}
+
+#footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #f2f2f2; /* You can change the background color */
+  color: black; /* Text color */
+  text-align: center;
+padding: 10px 0;
+font-size: 1.2em;
+}
+
+```
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+**Note:**
+
+1.  *The data presented in this portfolio work sample has been generated
+    by me using random numbers and names. While the data is not real, it
+    is designed to be a hypothetical yet realistic representation of
+    actual data encountered in the field.* Additionally, the company
+    logo presented is also hypothetical, created with the assistance of
+    generative AI.
+
+<br><br>
+
+2.  *This analysis is done in Python, but it is not limited to Python. I
+    am also able to perform similar analyses in R if needed.*
+
+<br><br>
+
+3.  *Logistic Regression Analysis has been performed in this work
+    sample; however, my analytical capabilities are not limited to
+    Logistic Regression only. It was one example of the many business
+    analytics and machine learning techniques that I can use, such as
+    Decision Trees, Simulation & Optimization, Time Series Forecasting
+    (ARIMA), and more.*
+
+<br><br>
+
+4.  *The analysis I conducted is centered around the human resources
+    domain. Nonetheless, the methodologies and techniques applied in
+    this analysis are versatile and can be extended to a broad array of
+    fields including Sales, Marketing, Supply Chain, and strategic
+    decision-making processes at the executive level.*
+
+------------------------------------------------------------------------
