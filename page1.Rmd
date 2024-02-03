@@ -40,12 +40,12 @@ font-size: 1.2em;
     logo presented is also hypothetical, created with the assistance of
     generative AI.
 
-<br><br>
+<br>
 
 2.  *This analysis is done in Python, but it is not limited to Python. I
     am also able to perform similar analyses in R if needed.*
 
-<br><br>
+<br>
 
 3.  *Logistic Regression Analysis has been performed in this work
     sample; however, my analytical capabilities are not limited to
@@ -54,12 +54,23 @@ font-size: 1.2em;
     Decision Trees, Simulation & Optimization, Time Series Forecasting
     (ARIMA), and more.*
 
-<br><br>
+<br>
 
 4.  *The analysis I conducted is centered around the human resources
     domain. Nonetheless, the methodologies and techniques applied in
     this analysis are versatile and can be extended to a broad array of
     fields including Sales, Marketing, Supply Chain, and strategic
     decision-making processes at the executive level.*
+
+<br>
+
+5.  *For additional insightful analysis, please check out my website.*
+
+    <br>[*Click to view the Website: Sangho's Business Analytics Case
+    Study &
+    Solutions*](https://business-analytics-slee.shinyapps.io/Data_Models_Decisions/)
+
+    <br>[*Click to view the Descriptive Dashboards: Shiny Sample
+    Demonstration*](https://sangho-lee.shinyapps.io/sample_rshiny/)
 
 ------------------------------------------------------------------------

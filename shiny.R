@@ -12,8 +12,8 @@ ui <- fluidPage(
   tabPanel("",
            fluidPage(
              pickerInput("chapter", "",
-                         choices = c("People Analytics, Sample", 
-                                     "Note")),
+                         choices = c("Note", 
+                                     "People Analytics, Sample")),
              uiOutput("chapter"))),
   
   
@@ -25,7 +25,7 @@ tags$style(HTML("
     }
   ")),
 
-  tags$img(id="logo", src="logo.png"),
+  tags$img(id="logo", src="logo.png", height=100, width=500),
   
   tags$div(style = "height: 20px;") 
   
