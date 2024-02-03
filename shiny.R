@@ -25,7 +25,7 @@ tags$style(HTML("
     }
   ")),
 
-  tags$img(id="logo", src="logo.png", height=100, width=500),
+  tags$img(id="logo", src="logo.png", height=80, width=500),
   
   tags$div(style = "height: 20px;") 
   
